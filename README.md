@@ -1,4 +1,5 @@
 # dio-java-basico
 Repositório para armazenar todo o conteúdo do curso de Java Basico
 
-Alterando o conteudo de forma local
+## Links úteis
+https://felipe-silva-aguiar.gitbook.io/dio-java/gitbook/sintaxe/operadores
